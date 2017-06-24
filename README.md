@@ -1,6 +1,6 @@
-#Solved with Flexbox
+# Solved with Flexbox
 
-##Building navigation bar
+## Building navigation bar
 
 ```
 @media (min-width: 800px) {
